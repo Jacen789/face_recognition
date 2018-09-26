@@ -1,0 +1,2 @@
+# face_recognition
+使用tensorflow进行人脸识别，识别摄像头中的人脸是不是自己
